@@ -1,5 +1,9 @@
 # hku_comp7404_finbert
 
+This repository contains the Python codes for fine-tuning the FinBERT model for sentiment analysis purpose using the Financial Phrasebank dataset (all agree version). The Python codes can also be accessed in this Google Colab notebook:
+https://colab.research.google.com/drive/1bS9QAC5ZUbhLp8M_XMLu4xVraGp4Ak8Z?usp=sharing
+
+
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages and load tensorboard extension.
 ```bash
